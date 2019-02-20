@@ -6,7 +6,7 @@ Here, we present the implementation to a design solution that's used e.g. in the
 
 <img src="https://github.com/quickbirdstudios/pull-to-reach-demo/blob/master/banner.jpg">
 
-Detailed instructions can also be found in this article: <link>
+Detailed instructions can also be found in this article: https://quickbirdstudios.com/blog/flutter-pull-to-refresh-was-yesterday-checkout-pull-to-reach/
 
 And if you want to integrate this into your existing app, here is a great library which does that job for you:
 https://github.com/TiO-Design/pull_to_reach
