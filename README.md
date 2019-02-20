@@ -1,5 +1,7 @@
 <img src="https://github.com/quickbirdstudios/pull-to-reach-demo/blob/master/banner.jpg">
 
+</br>
+
 Still stuck with Pull-To-Refresh in your Flutter app? 🙄 Why not take it a step further by using Pull-To-Reach? 
 That's a new way to access controls in your app that are normally hard to reach with your thumb.
 
